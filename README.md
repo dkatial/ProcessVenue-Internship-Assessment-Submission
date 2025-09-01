@@ -23,6 +23,7 @@ frontendreact/
 │ ├─ Projects.js
 │ └─ Search.js
 ├─ package.json
+└─ package-lock.json
 
 
 Running the Project
@@ -33,5 +34,5 @@ npm start
 
 
 The app will open at http://localhost:3000
-└─ package-lock.json
+
 
