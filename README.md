@@ -1,5 +1,5 @@
 ProcessVenue Internship Assessment Submission
-# Project Name
+
 Me-API Playground
 
 ## Description
